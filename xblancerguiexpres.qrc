@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>images/XbalancerOnlycircles.jpg</file>
+        <file>images/XbalancerOnlycirclesBIG.jpg</file>
     </qresource>
 </RCC>

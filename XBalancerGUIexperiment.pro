@@ -25,13 +25,16 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp
+        mainwindow.cpp \
+    testdialog3.cpp
 
 HEADERS += \
-        mainwindow.h
+        mainwindow.h \
+    testdialog3.h
 
 FORMS += \
-        mainwindow.ui
+        mainwindow.ui \
+    testdialog3.ui
 
 CONFIG += mobility
 MOBILITY = 

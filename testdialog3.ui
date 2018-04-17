@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TestDialog3</class>
+ <widget class="QWidget" name="TestDialog3">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>527</width>
+    <height>250</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout">
+   <item>
+    <widget class="QPushButton" name="pushButton">
+     <property name="styleSheet">
+      <string notr="true">color:white ; background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #7165f7, stop: 1 #bcb7f4);</string>
+     </property>
+     <property name="text">
+      <string>PressingPushButton#</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="pushButton_2">
+     <property name="styleSheet">
+      <string notr="true">color:white ; background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #9b0404, stop: 1 #ed6e57);</string>
+     </property>
+     <property name="text">
+      <string>Pressing another push button</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLineEdit" name="lineEdit">
+     <property name="text">
+      <string>Testdialog 3!!!</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
